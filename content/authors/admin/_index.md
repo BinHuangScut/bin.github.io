@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 黄彬
+title: Bin Huang 
 
 # Name pronunciation (optional)
 name_pronunciation: Bīn Hwáng 
