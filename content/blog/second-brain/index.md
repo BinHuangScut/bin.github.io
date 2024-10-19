@@ -4,9 +4,9 @@ summary: Create a personal knowledge base and share your knowledge with your pee
 date: 2023-10-26
 authors:
   - admin
-tags:
-  - Second Brain
-  - Markdown
+# tags:
+#   - Second Brain
+#   - Markdown
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---

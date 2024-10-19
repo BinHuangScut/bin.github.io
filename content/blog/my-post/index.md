@@ -1,4 +1,3 @@
-
 ---
 title: Leveraging Large Language Models (LLMs) in Power Grid Management
 summary: LLMs for Power Grid Management

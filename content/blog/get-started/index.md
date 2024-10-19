@@ -12,10 +12,10 @@ authors:
   - admin
   - Ted
 
-tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
+# tags:
+#   - Academic
+#   - Hugo Blox
+#   - Markdown
 ---
 
 Welcome 👋
