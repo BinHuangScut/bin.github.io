@@ -1,7 +1,13 @@
 
 ---
 title: Leveraging Large Language Models (LLMs) in Power Grid Management
-data: 10/18/2024
+summary: LLMs for Power Grid Management
+date: 10-18-2024
+authors:
+  - admin
+tags:
+  - AI
+  - Power System  
 ---
 
 Large Language Models (LLMs), such as GPT-4, have gained substantial attention in recent years due to their capacity to process, understand, and generate human-like language. Their application is no longer limited to conversational AI or text summarization—they are increasingly being leveraged in various industries, including power grid management. In this blog, we'll explore how LLMs can help enhance the efficiency, reliability, and safety of power grid operations.
